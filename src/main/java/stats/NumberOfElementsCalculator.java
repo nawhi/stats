@@ -4,6 +4,6 @@ import java.util.Set;
 
 public class NumberOfElementsCalculator {
     public int nels(Set<Integer> numbers) {
-        return 0;
+        return numbers.size();
     }
 }
