@@ -18,8 +18,8 @@ public class AT_StatsCalculator {
 
         Stats expectedStats = new Stats(
                 new MinMax(1, 5),
-                3,
-                5
+                5,
+                3
         );
 
         StatsCalculator statsCalculator = new StatsCalculator();
